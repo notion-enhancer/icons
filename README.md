@@ -2,6 +2,8 @@
 
 a collection of custom icon sets for use within [notion-enhancer's](https://github.com/notion-enhancer/notion-enhancer/) **notion icons** extension.
 
+![notion-icons-demo](https://media.giphy.com/media/zSNMMc7UUxDdPEpsNR/giphy.gif)
+
 ## usage
 
 1. install [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer/).
@@ -66,6 +68,8 @@ the following `json` defines three icon sets taken from [icons8](https://icons8.
   ]
 }
 ```
+
+![custom-icon-sets](https://i.imgur.com/UdaL6WB.png)
 
 ## contributing
 
