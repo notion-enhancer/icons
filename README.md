@@ -86,7 +86,7 @@ icons need to be named in the format of `FOLDERNAME_#.ext` with:
 - `#` representing the `#th` icon.
 - `ext` representing the icon file type, e.g. `png`, `svg`.
 
-> e.g. the icons in `icons/FC` are named as `FC_0.png`, `FC_1.png` ... `FC_22.png`.
+> e.g. the icons in `FC` are named as `FC_0.png`, `FC_1.png` ... `FC_22.png`.
 
 ### `icons.json`
 
