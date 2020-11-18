@@ -88,6 +88,15 @@ icons need to be named in the format of `FOLDERNAME_#.ext` with:
 
 > e.g. the icons in `FC` are named as `FC_0.png`, `FC_1.png` ... `FC_22.png`.
 
+### sprites.png
+
+generate a sprite sheet for your icon set in a [css sprites generator](https://www.toptal.com/developers/css/sprite-generator).
+
+- set paddings to **0**
+- align elements **top-down**
+
+the sprite sheet should be named `sprites.png` and placed inside your icon set's folder.
+
 ### `icons.json`
 
 information for icon sets are stored in `icons.json`.
