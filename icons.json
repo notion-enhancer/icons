@@ -19,7 +19,6 @@
     {
       "name": "Minimal Notion Icons Colored",
       "source": "MNIC",
-      "sourceUrl": "https://raw.githubusercontent.com/fabiosangregorio/icons/main/MNIC/",
       "extension": "png",
       "count": 214,
       "author": "Minimal Notion Icons",
@@ -28,7 +27,6 @@
     {
       "name": "Minimal Notion Icons Monochromatic",
       "source": "MNIM",
-      "sourceUrl": "https://raw.githubusercontent.com/fabiosangregorio/icons/main/MNIM/",
       "extension": "png",
       "count": 214,
       "author": "Minimal Notion Icons",
